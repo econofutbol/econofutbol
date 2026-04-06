@@ -1,79 +1,64 @@
 {
   "post": {
-    "slug": "transfer-growth",
-    "title": "13 Años De Datos De Traspasos: ¿Qué Ha Cambiado Realmente?",
-    "url": "https://econofutbol.github.io/econofutbol/es/transfer-growth"
+    "slug": "free-transfers",
+    "title": "El Mercado de Traspasos Gratuitos: €11.000 Millones a Coste Cero",
+    "url": "https://econofutbol.github.io/econofutbol/es/free-transfers"
   },
   "tweets": [
     {
-      "text": "13 Años De Datos De Traspasos: ¿Qué Ha Cambiado Realmente?\n\n¿Cuánto han cambiado los traspasos en el fútbol europeo desde 2013? Analizamos más de 35.000 operaciones en las grandes ligas — volumen, precios y quién manda en el mercado.\n\nThread 🧵",
+      "text": "El Mercado de Traspasos Gratuitos: €11.000 Millones a Coste Cero\n\nSolo 1 de cada 5 traspasos implica un pago. Rastreamos más de 5.700 traspasos gratuitos en 8 grandes ligas — más de €11.000M en talento que se movió gratis.\n\nHilo 🧵",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers"
     },
     {
-      "text": "Las grandes ligas europeas procesaron más de 3.000 traspasos en 2025 — un 58% más que en 2013. Pero el volumen solo cuenta la mitad de la historia.",
+      "text": "El 80% del que Nunca Hablamos\n\n~80% de los traspasos no implican pago en efectivo. Préstamos, agentes libres, contratos vencidos — dominan el mercado, en silencio, en cada ventana.",
+      "image": "step-0.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#the-80-pct"
+    },
+    {
+      "text": "Préstamos, Agentes Libres y lo Desconocido\n\nEse 80% se divide en: ~28% sin revelar, ~39% préstamos, ~13% agentes libres. Tres historias muy distintas. Nos centramos en los agentes libres — los que se fueron sin coste alguno.",
       "image": "step-1.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#transfer-machine"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#bridge"
     },
     {
-      "text": "Solo 1 de cada 5 traspasos implica un pago — y esa proporción no ha cambiado en 13 años. Los libres, préstamos y salidas al acabar contrato siguen dominando.",
+      "text": "Sorprendentemente Estable\n\nEn 13 temporadas y 8 ligas, la proporción de fichajes gratuitos apenas se ha movido — estable en torno al ~29–35%. Más dinero, cifras más altas. Pero la proporción: estructural.",
       "image": "step-2.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#free-transfers"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#stable"
     },
     {
-      "text": "Pero entre los traspasos con precio, el número casi se duplicó: de 380 en 2013 a 693 en 2025 (+82%). Más clubes pagan, y con más frecuencia.",
+      "text": "Pero el Valor No Es Estable\n\nEl número se mantiene — el valor no. El valor de mercado total de agentes libres creció de €600M (2013) a un pico de €1.400M en 2022. La era del traspaso gratuito \"barato\" quedó atrás.",
       "image": "step-3.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#paid-deals"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#value"
     },
     {
-      "text": "El promedio se duplicó: €5,7M → €12,7M. Pero la mediana solo pasó de €3M a €6,5M. Unos pocos megafichajes elevan el promedio — el traspaso típico sigue siendo modesto.",
+      "text": "Los Jugadores\n\nUn escudo aparece una y otra vez: la Juventus. 7 veces en el top 5 — €236M acumulados. Pero la corona es del Real Madrid: €275M en solo 3 traspasos libres. Uno solo representa €180M.",
       "image": "step-4.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#average-misleading"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#players"
     },
     {
-      "text": "Los traspasos de más de €30M pasaron del 3,4% al 11,4% de todas las operaciones de pago. Lo que antes era élite se está convirtiendo en rutina.",
+      "text": "El Salón de la Fama\n\nMbappé al Real Madrid — €180M de talento, cero euros. El traspaso gratuito más valioso. Messi €80M, Donnarumma €60M, Alaba €55M, Lewandowski €50M, Pogba €48M. Todos gratis.",
       "image": "step-5.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#market-shifting"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#hall-of-fame"
     },
     {
-      "text": "En 2013, solo 13 traspasos superaron €30M. En 2025: 79. Un aumento de 6x en una sola década.",
+      "text": "¿A Dónde Van los Agentes Libres?\n\nPor volumen: la Süper Lig es el mayor receptor — 302 traspasos gratuitos de entrada. La Premier League es lo contrario: 235 fuera, solo 76 dentro.",
       "image": "step-6.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#big-transfers"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#league-flows-count"
     },
     {
-      "text": "El rango €30-50M lideró la expansión: de 10 a 49 operaciones al año. Los €80M+ siguen siendo raros — la verdadera élite sigue siendo élite.",
+      "text": "El Mismo Mapa, Redibujado por Valor\n\nLa Premier League exporta €446M solo a La Liga — y otros €318M a la Serie A. La Liga es la gran ganadora: €1.041M en talento gratuito recibido, €411M más de lo que exporta.",
       "image": "step-7.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#tier-growth"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#league-flows-mv"
     },
     {
-      "text": "De Bale y Neymar en 2013 a Isak y Wirtz en 2025. Los nombres cambian — los clubes que firman los cheques más grandes, rara vez.",
+      "text": "Club a Club\n\nReal Madrid acumuló €275M en talento gratuito — el mayor botín de cualquier club. El PSG exportó €180M en un solo movimiento. La Juventus es el nodo más conectado — 4 flujos principales pasan por ellos.",
       "image": "step-8.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#biggest-names"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#club-flows"
     },
     {
-      "text": "La Premier League gastó €3.800M en 2025 — más del triple de la Serie A y más de 5 veces La Liga. El gasto inglés deja a todos los demás en evidencia.",
-      "image": "step-9.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#premier-league"
-    },
-    {
-      "text": "Solo 25 clubes — de entre 534 — acapararon el 52% de todo el gasto en traspasos desde 2013. La ventana cambia. Los nombres cambian. La cuota de mercado no.",
-      "image": "step-10.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#wealth-spreading"
-    },
-    {
-      "text": "Chelsea (€3.200M), Manchester City (€2.400M), Man United (€2.400M), PSG (€2.300M). Los mismos 25 clubes siguen firmando los cheques más grandes — la oligarquía del mercado sigue muy viva.",
-      "image": "step-11.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#club-spending"
-    },
-    {
-      "text": "Real Madrid, PSG, Manchester City, Chelsea — los mismos escudos, año tras año. Los clubes saudíes son los recién llegados, pero su presencia ya es imposible de ignorar.",
-      "image": "step-12.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth#usual-suspects"
-    },
-    {
-      "text": "Análisis completo 👉 https://econofutbol.github.io/econofutbol/es/transfer-growth",
+      "text": "Análisis completo 👉 https://econofutbol.github.io/econofutbol/es/free-transfers",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/es/transfer-growth"
+      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers"
     }
   ]
 }
