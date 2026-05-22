@@ -1,64 +1,59 @@
 {
   "post": {
-    "slug": "free-transfers",
-    "title": "El Mercado de Traspasos Gratuitos: €11.000 Millones a Coste Cero",
-    "url": "https://econofutbol.github.io/econofutbol/es/free-transfers"
+    "slug": "leicester-collapse",
+    "title": "Cómo el Leicester City Pasó de Campeón a Tercera División en una Década",
+    "url": "https://econofutbol.github.io/econofutbol/es/leicester-collapse"
   },
   "tweets": [
     {
-      "text": "El Mercado de Traspasos Gratuitos: €11.000 Millones a Coste Cero\n\nSolo 1 de cada 5 traspasos implica un pago. Rastreamos más de 5.700 traspasos gratuitos en 8 grandes ligas — más de €11.000M en talento que se movió gratis.\n\nHilo 🧵",
+      "text": "De Campeones a Tercera División\n\n2016: título de la Premier League. 2026: League One. En menos de una década, el Leicester pasó del mayor milagro del fútbol a una de sus caídas más estrepitosas.\n\nUna autopsia en datos. Hilo 🧵",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse"
     },
     {
-      "text": "El 80% del que Nunca Hablamos\n\n~80% de los traspasos no implican pago en efectivo. Préstamos, agentes libres, contratos vencidos — dominan el mercado, en silencio, en cada ventana.",
-      "image": "step-0.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#the-80-pct"
-    },
-    {
-      "text": "Préstamos, Agentes Libres y lo Desconocido\n\nEse 80% se divide en: ~28% sin revelar, ~39% préstamos, ~13% agentes libres. Tres historias muy distintas. Nos centramos en los agentes libres — los que se fueron sin coste alguno.",
+      "text": "La plantilla del título (2015–16) valía €161M — aproximadamente la mitad de la media de la liga (€210M).\n\nVardy llegó gratis. Kanté costó €9M. Mahrez costó €500K.\n\nNo compraron el título. Lo encontraron.",
       "image": "step-1.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#bridge"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-1"
     },
     {
-      "text": "Sorprendentemente Estable\n\nEn 13 temporadas y 8 ligas, la proporción de fichajes gratuitos apenas se ha movido — estable en torno al ~29–35%. Más dinero, cifras más altas. Pero la proporción: estructural.",
+      "text": "A partir de 2017, cada ventana siguió el mismo patrón: el talento que salía valía más que el que llegaba.\n\nEl techo de la plantilla seguía bajando, una venta tras otra.",
       "image": "step-2.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#stable"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-2"
     },
     {
-      "text": "Pero el Valor No Es Estable\n\nEl número se mantiene — el valor no. El valor de mercado total de agentes libres creció de €600M (2013) a un pico de €1.400M en 2022. La era del traspaso gratuito \"barato\" quedó atrás.",
+      "text": "La paradoja: el Leicester fue comprador neto en la mayoría de ventanas. Gastó más en traspasos de los que ingresó.\n\nPero no había un segundo Kanté por €9M ni un segundo Mahrez por €500K.\n\nEl dinero se gastó. La calidad no llegó.",
       "image": "step-3.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#value"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-3"
     },
     {
-      "text": "Los Jugadores\n\nUn escudo aparece una y otra vez: la Juventus. 7 veces en el top 5 — €236M acumulados. Pero la corona es del Real Madrid: €275M en solo 3 traspasos libres. Uno solo representa €180M.",
+      "text": "Compara la temporada del título (2015–16) con la actual en Championship (2025–26).\n\nMV de salidas en verano: €34M → €156M.\n\nTras el descenso de 2025, €156M en talento salió por la puerta — sustituido por apenas €46M en fichajes.",
       "image": "step-4.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#players"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-4"
     },
     {
-      "text": "El Salón de la Fama\n\nMbappé al Real Madrid — €180M de talento, cero euros. El traspaso gratuito más valioso. Messi €80M, Donnarumma €60M, Alaba €55M, Lewandowski €50M, Pogba €48M. Todos gratis.",
+      "text": "No fue solo que el talento se marchara. Es adónde fue a parar.\n\nMaguire → Man United. Mahrez → Man City. Chilwell y Fofana → Chelsea. Maddison → Tottenham.\n\n~€300M a rivales directos del Top 6.",
       "image": "step-5.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#hall-of-fame"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-5"
     },
     {
-      "text": "¿A Dónde Van los Agentes Libres?\n\nPor volumen: la Süper Lig es el mayor receptor — 302 traspasos gratuitos de entrada. La Premier League es lo contrario: 235 fuera, solo 76 dentro.",
+      "text": "Desde el título de 2016, el Leicester exportó más de €1.000M en valor de mercado de jugadores.\n\nEl Chelsea solo absorbió €139M. El Top 6 en conjunto se llevó el 28% de cada jugador de élite que salió.",
       "image": "step-6.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#league-flows-count"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-6"
     },
     {
-      "text": "El Mismo Mapa, Redibujado por Valor\n\nLa Premier League exporta €446M solo a La Liga — y otros €318M a la Serie A. La Liga es la gran ganadora: €1.041M en talento gratuito recibido, €411M más de lo que exporta.",
+      "text": "Maguire: €8M → €50M (+525%). Maddison: €10M → €60M (+500%). Kanté: €4,5M → €20M en una temporada.\n\nCada línea, un jugador. El punto derecho: su valor al salir.\n\nOjo extraordinario para el talento. El problema: siempre tenía que venderlo.",
       "image": "step-7.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#league-flows-mv"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-7"
     },
     {
-      "text": "Club a Club\n\nReal Madrid acumuló €275M en talento gratuito — el mayor botín de cualquier club. El PSG exportó €180M en un solo movimiento. La Juventus es el nodo más conectado — 4 flujos principales pasan por ellos.",
+      "text": "Los sustitutos contaron la historia opuesta.\n\nBertrand: €8M entrada, €0,8M salida. Evans: €15M entrada, €2M salida. Praet: €24M entrada, €4M salida.\n\n16 de 38 jugadores salieron sin contrato — Tielemans (€25M), Söyüncü (€15M), Iheanacho (€12M). Gratis.",
       "image": "step-8.png",
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers#club-flows"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse#step-8"
     },
     {
-      "text": "Análisis completo 👉 https://econofutbol.github.io/econofutbol/es/free-transfers",
+      "text": "La caída del Leicester no es mala suerte.\n\nFue un modelo de scouting irrepetible — y dinero gastado en jugadores que se depreciaron en vez de crecer.\n\nEncontrar el rayo una vez es genialidad. Embotellarlo es lo difícil.\n\nAnálisis completo 👉 https://econofutbol.github.io/econofutbol/es/leicester-collapse",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/es/free-transfers"
+      "link": "https://econofutbol.github.io/econofutbol/es/leicester-collapse"
     }
   ]
 }
