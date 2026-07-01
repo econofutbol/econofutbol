@@ -1,64 +1,49 @@
 {
   "post": {
-    "slug": "arsenal-title",
-    "title": "Arsenal Are Champions: The 22-Year Wait Is Over",
-    "url": "https://econofutbol.github.io/econofutbol/arsenal-title"
+    "slug": "wc-squad-values",
+    "title": "Does Squad Value Decide World Cup Success?",
+    "url": "https://econofutbol.github.io/econofutbol/wc-squad-values"
   },
   "tweets": [
     {
-      "text": "22 Years. Then Everything Changed.\n\nOn May 2026, Arsenal lifted the Premier League trophy for the first time in 22 years. The last time was the legendary 2003–04 Invincibles — an unbeaten season that felt unrepeatable. Two decades...\n\nThread 🧵",
+      "text": "Five World Cups. 160 Squads. Billions on the Pitch.\n\nMorocco were ranked 17th by squad value at the 2022 World Cup. They reached the semi-finals. Germany were ranked 6th. They went home in the group stage. So does the money matter? Across 160 squads...\n\nThread 🧵",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values"
     },
     {
-      "text": "From 8th place in 2019–20 to Premier League champions. Arsenal's worst finish in 25 years was the starting point for one of football's most systematic rebuilds.",
+      "text": "160 squads, 5 World Cups, one chart. The pattern is real — richer squads cluster higher. But Germany 2018 (ranked 3rd) crashed out in the group stage. Morocco 2022 (ranked 17th) reached the semi-finals. So is this a correlation — or just noise?",
       "image": "step-1.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-1"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#money-vs-results"
     },
     {
-      "text": "8th → 5th → 2nd → 2nd → 2nd → 1st. Three consecutive runners-up finishes before finally winning it. 85 points. Champions.",
+      "text": "It's a real pattern. Median squad value nearly doubles between group exits and semi-finalists — then doubles again for winners. Every winner since 2006 ranked in the top 7. 3 of those 5 won as the most expensive squad in the tournament.",
       "image": "step-2.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-2"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#the-staircase"
     },
     {
-      "text": "Tottenham have waited 64 years. Chelsea waited 50. Liverpool 30. Arsenal's 22 felt like an eternity — but it wasn't even the longest.",
+      "text": "The money cuts both ways. Spain 2014 and Germany 2018 arrived as top-5 squads — and went home in the group stage. Costa Rica 2014 and Morocco 2022 reached the knockouts as some of the cheapest squads in their tournament. The pattern works until it doesn't.",
       "image": "step-3.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-3"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#quadrants"
     },
     {
-      "text": "Net buyers every single Arteta season — but structured, not chaotic. The €293M title-winning window wasn't panic buying. It was a plan executing at full speed.",
+      "text": "Costa Rica 2014: a quarter-final from the 4th-cheapest squad in the tournament. Morocco 2022: a semi-final, also from a low base. At the other end: Germany 2018 and Belgium 2022 — group stage exits from squads worth close to a billion euros.",
       "image": "step-4.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-4"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#outliers"
     },
     {
-      "text": "Goals conceded: 39 in 2020–21, down to 27 in the title year. Points: 61 to 85. Every metric moved in the right direction.",
+      "text": "England. Germany. Spain. Portugal. Belgium. The same names, every tournament, with the most expensive squads — and consistent underperformance. Belgium's Golden Generation won nothing. England haven't reached a World Cup final since 1966.",
       "image": "step-5.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-5"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#underachievers"
     },
     {
-      "text": "Saka and Martinelli cost next to nothing. Saliba: €25M. Trossard and Jorginho: January bargains. Rice at €100M was the one premium — Arsenal knew it and paid anyway.",
+      "text": "Croatia reached the 2018 final ranked 9th. The 2022 semi-finals ranked 12th. Japan, South Korea, and Morocco consistently punch above their squad value. In 2026 — the most expensive field ever — the overachievers will be the story again.",
       "image": "step-6.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-6"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values#overachievers"
     },
     {
-      "text": "Saka: academy → €120M. Saliba: €20M → €90M. Rice: €80M → €120M. Every Arteta signing didn't just improve the squad — it created financial value.",
-      "image": "step-7.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-7"
-    },
-    {
-      "text": "Arsenal spent €1,072M since 2020. Chelsea spent €2,073M — nearly double. Man City and United spent more too. The title wasn't bought with the biggest cheque.",
-      "image": "step-8.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-8"
-    },
-    {
-      "text": "9 leagues. €1+ billion in market value. Premier League (Rice, Havertz), La Liga (Ødegaard, Zubimendi), Serie A (Saliba, Calafiori). No single-market dependency.",
-      "image": "step-9.png",
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title#step-9"
-    },
-    {
-      "text": "Full analysis 👉 https://econofutbol.github.io/econofutbol/arsenal-title",
+      "text": "Full analysis 👉 https://econofutbol.github.io/econofutbol/wc-squad-values",
       "image": null,
-      "link": "https://econofutbol.github.io/econofutbol/arsenal-title"
+      "link": "https://econofutbol.github.io/econofutbol/wc-squad-values"
     }
   ]
 }
