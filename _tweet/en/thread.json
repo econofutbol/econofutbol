@@ -1,0 +1,129 @@
+{
+  "post": {
+    "slug": "wc-player-values",
+    "title": "The Price of a Star: World Cup Player Market Values",
+    "url": "https://econofutbol.github.io/econofutbol/wc-player-values"
+  },
+  "tweets": [
+    {
+      "text": "From €50m to €200m in Three Editions.\n\nZero. That's how many players worth €100m or more lined up at the 2006 World Cup. At the 2026 edition, there are 18. Across six tournaments, player market valuations have inflated far faster than...\n\nThread 🧵",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values"
+    },
+    {
+      "text": "Ronaldinho topped Germany 2006 at €50m — but never got past the quarters. Italy's champions? Buffon, Nesta and Totti, valued at just €35m each.",
+      "image": "bars-2006.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2006"
+    },
+    {
+      "text": "Cristiano Ronaldo led South Africa 2010 at €90m, the first player to approach nine figures. Portugal fell in the round of 16 — the trophy went to Spain, whose stars never topped €60m.",
+      "image": "bars-2010.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2010"
+    },
+    {
+      "text": "Brazil 2014: the €100m player arrives. Ronaldo and Messi both hit €120m — but Germany won it with four champions worth less than half that combined.",
+      "image": "bars-2014.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2014"
+    },
+    {
+      "text": "Russia 2018: 12 players break €100m. Mbappé, 19, sets a new ceiling at €200m — and delivers, with 4 goals and the trophy.",
+      "image": "bars-2018.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2018"
+    },
+    {
+      "text": "Qatar 2022: a post-COVID dip to just 6 players above €100m. Mbappé (€180m) nearly wins it solo — 8 goals, Golden Boot, runner-up. Argentina's champions don't have a single player on this list.",
+      "image": "bars-2022.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2022"
+    },
+    {
+      "text": "2026: 18 players at €100m+. Yamal and Haaland jointly lead at €200m — the first to match Mbappé's 2018 ceiling. Five players are worth €150m or more.",
+      "image": "bars-2026.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#bars-2026"
+    },
+    {
+      "text": "2006–2014: zero €100m players at a World Cup. Then Brazil 2014 — Messi and Ronaldo cross it together. Just 2 players in the entire field.",
+      "image": "step-1.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#first-members"
+    },
+    {
+      "text": "Russia 2018: 12 players at €100m+ — 6x the 2014 count. Mbappé's €200m ceiling wouldn't be matched again until 2026.",
+      "image": "step-2.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#the-explosion"
+    },
+    {
+      "text": "18 players at €100m+ in 2026 — 3x the 2018 tally. For the first time, Mbappé isn't the priciest: Yamal (17) and Haaland both hit €200m.",
+      "image": "step-3.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#new-normal"
+    },
+    {
+      "text": "Attackers have claimed the largest share of World Cup squad value since 2006 — never below 40%. Goalkeepers just hit a record-low 4.4%.",
+      "image": "money-pct.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#money-pct"
+    },
+    {
+      "text": "Squad value has nearly quadrupled since 2006: €4.5bn → €17.2bn. Attackers alone are now worth more than every position combined in 2006.",
+      "image": "money-abs.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#money-abs"
+    },
+    {
+      "text": "Every 2026 squad player, priced at their career-peak World Cup value, against career goals + assists through 2022. If price tracked output, the dots would climb left to right. They don't.",
+      "image": "step-4.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#the-scatter"
+    },
+    {
+      "text": "Messi peaked at just €120m yet delivered 21 career goals + assists. Mbappé: €200m, tied for the highest World Cup value ever, already has 14 at 23.",
+      "image": "step-5.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#mbappe-delivered"
+    },
+    {
+      "text": "Haaland and Yamal are both valued at €200m — the joint-highest World Cup price tags on record — with zero World Cup goals or assists to date.",
+      "image": "step-6.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#expensive-no-shows"
+    },
+    {
+      "text": "Germany 2006's priciest XI: €420m, 17 goals + assists. Ronaldinho led it at €50m.",
+      "image": "xi-2006.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#xi-2006"
+    },
+    {
+      "text": "South Africa 2010: €613m of talent, 26 G+A. Spain's passers — Iniesta, Xavi, Villa — filled the list.",
+      "image": "xi-2010.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#xi-2010"
+    },
+    {
+      "text": "Brazil 2014: €720m, 27 G+A. Messi and Ronaldo at €120m each, but Müller's 8 led the field.",
+      "image": "xi-2014.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#xi-2014"
+    },
+    {
+      "text": "Russia 2018: the bill leapt to €1.38bn. Kanté and Dembélé, both €100m, returned nothing.",
+      "image": "xi-2018.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#xi-2018"
+    },
+    {
+      "text": "Qatar 2022: €1.19bn for 32 G+A — but Mbappé alone supplied 10 of them.",
+      "image": "xi-2022.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#xi-2022"
+    },
+    {
+      "text": "Álvaro Morata (€50m) posts the best rate in the dataset: 1.95 goals + assists per 90. James Rodríguez and André Schürrle aren't far behind — none ever priced above €50m.",
+      "image": "eff-over.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#overachievers"
+    },
+    {
+      "text": "Mbappé pairs the highest World Cup value on record (€200m) with 1.12 G+A per 90. Neymar, Vinícius Jr. and Messi sit right behind him.",
+      "image": "eff-deliver.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#eff-deliverers"
+    },
+    {
+      "text": "Declan Rice (€120m, 417 minutes) and Vitinha (€140m, 120 minutes) both returned 0.00 goals + assists per 90. Same price range as the deliverers. None of the output.",
+      "image": "eff-under.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values#underachievers"
+    },
+    {
+      "text": "Full analysis 👉 https://econofutbol.github.io/econofutbol/wc-player-values",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/wc-player-values"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "post": {
+    "slug": "wc-player-values",
+    "title": "El Precio de una Estrella: Valores de Mercado en el Mundial",
+    "url": "https://econofutbol.github.io/econofutbol/es/wc-player-values"
+  },
+  "tweets": [
+    {
+      "text": "De €50m a €200m en Tres Ediciones.\n\nCero. Así de muchos jugadores valorados en €100m o más participaron en el Mundial 2006. En la edición de 2026, son 18. A lo largo de seis torneos, las valoraciones individuales han inflado mucho más...\n\nThread 🧵",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values"
+    },
+    {
+      "text": "Ronaldinho lideró Alemania 2006 con €50m — pero no pasó de cuartos. ¿Los campeones? Buffon, Nesta y Totti, valorados en apenas €35m cada uno.",
+      "image": "bars-2006.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2006"
+    },
+    {
+      "text": "Cristiano Ronaldo lideró Sudáfrica 2010 con €90m, el primero en acercarse a seis cifras. Portugal cayó en octavos — el trofeo fue para España, ninguno de sus jugadores superaba los €60m.",
+      "image": "bars-2010.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2010"
+    },
+    {
+      "text": "Brasil 2014: llega el jugador de €100m. Ronaldo y Messi, ambos a €120m — pero Alemania ganó con cuatro campeones que valían, juntos, menos de la mitad de eso.",
+      "image": "bars-2014.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2014"
+    },
+    {
+      "text": "Rusia 2018: 12 jugadores superan los €100m. Mbappé, con 19 años, fija un nuevo techo en €200m — y cumple, con 4 goles y el título.",
+      "image": "bars-2018.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2018"
+    },
+    {
+      "text": "Qatar 2022: caída post-COVID a solo 6 jugadores sobre €100m. Mbappé (€180m) casi lo logra solo — 8 goles, Bota de Oro, subcampeón. Argentina, la campeona, no tiene ni un jugador en esta lista.",
+      "image": "bars-2022.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2022"
+    },
+    {
+      "text": "2026: 18 jugadores a €100m+. Yamal y Haaland lideran empatados a €200m — los primeros en igualar el techo de Mbappé de 2018. Cinco jugadores valen €150m o más.",
+      "image": "bars-2026.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#bars-2026"
+    },
+    {
+      "text": "2006–2014: cero jugadores de €100m en un Mundial. Luego Brasil 2014 — Messi y Ronaldo lo cruzan juntos. Solo 2 jugadores en todo el campo.",
+      "image": "step-1.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#first-members"
+    },
+    {
+      "text": "Rusia 2018: 12 jugadores a €100m+ — 6 veces el número de 2014. El techo de Mbappé, €200m, no se igualaría hasta 2026.",
+      "image": "step-2.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#the-explosion"
+    },
+    {
+      "text": "18 jugadores a €100m+ en 2026 — 3 veces el total de 2018. Por primera vez, Mbappé no es el más caro: Yamal (17) y Haaland llegan ambos a €200m.",
+      "image": "step-3.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#new-normal"
+    },
+    {
+      "text": "Los delanteros se llevan la mayor parte del valor del plantel desde 2006 — nunca por debajo del 40%. Los porteros acaban de tocar un mínimo histórico: 4,4%.",
+      "image": "money-pct.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#money-pct"
+    },
+    {
+      "text": "El valor del plantel casi se cuadruplicó desde 2006: €4,5mil M → €17,2mil M. Los delanteros solos valen hoy más que todas las posiciones juntas en 2006.",
+      "image": "money-abs.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#money-abs"
+    },
+    {
+      "text": "Cada jugador de un plantel de 2026, ubicado según su valor máximo mundialista, frente a goles + asistencias de carrera hasta 2022. Si el precio reflejara la producción, los puntos subirían de izquierda a derecha. No lo hacen.",
+      "image": "step-4.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#the-scatter"
+    },
+    {
+      "text": "Messi alcanzó apenas €120m pero sumó 21 goles y asistencias de carrera. Mbappé: €200m, el valor mundialista más alto registrado, y ya lleva 14 a los 23 años.",
+      "image": "step-5.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#mbappe-delivered"
+    },
+    {
+      "text": "Haaland y Yamal están valorados en €200m cada uno — los precios mundialistas más altos jamás registrados — con cero goles o asistencias mundialistas hasta hoy.",
+      "image": "step-6.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#expensive-no-shows"
+    },
+    {
+      "text": "El XI más caro de Alemania 2006: €420m, 17 goles + asistencias. Ronaldinho lo encabezó con €50m.",
+      "image": "xi-2006.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#xi-2006"
+    },
+    {
+      "text": "Sudáfrica 2010: €613m de talento, 26 G+A. Los pasadores de España — Iniesta, Xavi, Villa — llenaron la lista.",
+      "image": "xi-2010.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#xi-2010"
+    },
+    {
+      "text": "Brasil 2014: €720m, 27 G+A. Messi y Ronaldo a €120m cada uno, pero los 8 de Müller lideraron.",
+      "image": "xi-2014.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#xi-2014"
+    },
+    {
+      "text": "Rusia 2018: la cuenta saltó a €1,38mil M. Kanté y Dembélé, ambos de €100m, no aportaron nada.",
+      "image": "xi-2018.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#xi-2018"
+    },
+    {
+      "text": "Catar 2022: €1,19mil M por 32 G+A — pero Mbappé aportó 10 de ellos solo.",
+      "image": "xi-2022.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#xi-2022"
+    },
+    {
+      "text": "Álvaro Morata (€50m) tiene el mejor ritmo del conjunto de datos: 1,95 goles + asistencias por 90. James Rodríguez y André Schürrle no se quedan atrás — ninguno superó nunca los €50m.",
+      "image": "eff-over.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#overachievers"
+    },
+    {
+      "text": "Mbappé combina el valor mundialista más alto registrado (€200m) con 1,12 G+A por 90. Neymar, Vinícius Jr. y Messi lo siguen de cerca.",
+      "image": "eff-deliver.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#eff-deliverers"
+    },
+    {
+      "text": "Declan Rice (€120m, 417 minutos) y Vitinha (€140m, 120 minutos) aportaron 0,00 goles + asistencias por 90. Mismo rango de precio que los que cumplieron. Sin nada de producción.",
+      "image": "eff-under.png",
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values#underachievers"
+    },
+    {
+      "text": "Análisis completo 👉 https://econofutbol.github.io/econofutbol/es/wc-player-values",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/es/wc-player-values"
+    }
+  ]
+}
