@@ -1,0 +1,1 @@
+const e={Canada:"#ff4136",Morocco:"#22c55e",France:"#3b82f6",Paraguay:"#ef4444",Brazil:"#fbbf24",Norway:"#f87171",England:"#dc2626",Mexico:"#16a34a","United States":"#3b82f6",Belgium:"#ef4444",Portugal:"#dc2626",Spain:"#fbbf24",Argentina:"#7dd3fc",Egypt:"#ef4444",Switzerland:"#ef4444",Colombia:"#fbbf24"};function n(a,f){return e[a]??f}export{n as t};
