@@ -9,11 +9,20 @@ Requires env vars: TWITTER_API_KEY, TWITTER_API_SECRET,
 import argparse
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
 
 import tweepy
+
+URL_RE = re.compile(r"https?://\S+")
+TCO_LEN = 23  # Twitter counts any URL as 23 chars via t.co, regardless of its real length
+
+
+def weighted_length(text):
+    urls = URL_RE.findall(text)
+    return len(URL_RE.sub("", text)) + len(urls) * TCO_LEN
 
 
 def main():
@@ -62,14 +71,20 @@ def main():
                 print(f"  Uploaded {tweet['image']}")
 
         # Append link if not already present in text
-        text = tweet["text"]
+        body = tweet["text"]
         link = tweet.get("link", "")
-        if link and link not in text:
-            text = f"{text}\n\n{link}"
-
-        # Twitter hard limit
-        if len(text) > 280:
-            text = text[:277] + "..."
+        if link and link not in body:
+            # Trim the body (never the link itself) against Twitter's *weighted* length --
+            # a URL counts as a flat 23 chars via t.co regardless of its real character count,
+            # so budgeting off raw len() here would risk truncating straight through the link.
+            budget = 280 - 2 - TCO_LEN
+            if len(body) > budget:
+                body = body[: budget - 1] + "…"
+            text = f"{body}\n\n{link}"
+        else:
+            text = body
+            if weighted_length(text) > 280:
+                text = text[:277] + "..."
 
         response = client.create_tweet(
             text=text,

@@ -1,0 +1,69 @@
+{
+  "post": {
+    "slug": "wc-semifinals",
+    "title": "World Cup 2026 Semifinals: One Safe Bet, One Coin Flip",
+    "url": "https://econofutbol.github.io/econofutbol/wc-semifinals"
+  },
+  "tweets": [
+    {
+      "text": "Semifinals: One Safe Bet, One Coin Flip\n\nBoth Semifinal ties are set, with very different value gaps. France-Spain sits at 1.25x — favorites have won 24 of 33 comparable matches since 2006. England-Argentina's 1.69x is close to a coin flip.\n\nThread 🧵",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals"
+    },
+    {
+      "text": "France vs Spain: A Deeper Squad, But Not Everywhere\n\nFrance's squad (€1,523m) beats Spain's (€1,223m) by €300m, mostly in attack (1.76x). But Spain's midfield actually leads, and Lamine Yamal (€200m) outprices Mbappé as the priciest player here.",
+      "image": "match-fr-es-overall.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#fr-es-overall"
+    },
+    {
+      "text": "Mbappé's Output Dwarfs Spain's Entire Response\n\nKylian Mbappé (€180m) has 11 combined goal contributions this tournament — more than Spain's entire top 10 combined. Lamine Yamal, the board's priciest player at €200m, has managed just 1.",
+      "image": "match-fr-es-players.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#fr-es-players"
+    },
+    {
+      "text": "At 1.25x, Favorites Win — But Rarely Comfortably\n\nThe closest historical matches to this gap were tight almost without exception — 4 of 5 finished 1-0. Portugal supplies two: beaten by Spain this tournament, and by France in the 2006 Semifinal.",
+      "image": "match-fr-es-similar.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#fr-es-similar"
+    },
+    {
+      "text": "At 1.25x, France Wrote Half the Underdog Blueprint\n\nTwo of the five closest upsets at this gap belong to France itself — beating Brazil 1-0 in 2006 and England 2-1 in 2022, both as the cheaper side.",
+      "image": "match-fr-es-upsets.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#fr-es-upsets"
+    },
+    {
+      "text": "Zoom Out: 33 Matches, Nine Went the Other Way\n\nEvery knockout match within 0.3x of this 1.25x gap — 33 since 2006 — and favorites won 24 of them. The nine upsets, France's pair included, are the exception, not the rule.",
+      "image": "match-fr-es-split.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#fr-es-split"
+    },
+    {
+      "text": "England vs Argentina: Even at Midfield, a Gulf at the Back\n\nEngland's squad (€1,358m) beats Argentina's (€808m) by 68% — but midfield is nearly level. Defence is the opposite story: England's back line costs 2.5x Argentina's, the widest gap of the five.",
+      "image": "match-eng-ar-overall.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#eng-ar-overall"
+    },
+    {
+      "text": "Kane Matches Bellingham at Half the Price\n\nJude Bellingham (€130m) leads with 7 combined goal contributions, but Harry Kane matches that exact tally at just €60m. Messi remains the matchup's most productive player outright — valued at just €15m.",
+      "image": "match-eng-ar-players.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#eng-ar-players"
+    },
+    {
+      "text": "At 1.69x, Argentina's Already Been Here — and Lost\n\nArgentina stood on nearly this exact gap before: the €900m underdog against France's €1,616m in the 2018 Round of 16. They lost 4-3, the highest-scoring match in this entire comparison set.",
+      "image": "match-eng-ar-similar.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#eng-ar-similar"
+    },
+    {
+      "text": "At 1.69x, England's Already Lost a Semifinal Here\n\nEngland has been upset from nearly this gap twice — on penalties vs Portugal in 2006, and 2-1 outright against Croatia in the 2018 Semifinal, the same round England plays tonight.",
+      "image": "match-eng-ar-upsets.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#eng-ar-upsets"
+    },
+    {
+      "text": "Zoom Out: Nearly a Coin Flip\n\nEvery knockout match within 0.3x of this 1.69x gap — 24 in total — and the split holds: 13 favorites, 11 upsets. The less predictable of the two Semifinal gaps, by a wide margin.",
+      "image": "match-eng-ar-split.png",
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals#eng-ar-split"
+    },
+    {
+      "text": "Full analysis 👉 https://econofutbol.github.io/econofutbol/wc-semifinals",
+      "image": null,
+      "link": "https://econofutbol.github.io/econofutbol/wc-semifinals"
+    }
+  ]
+}
